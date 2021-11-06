@@ -37,8 +37,7 @@
     "koa": "^2.13.4",
     "koa-bodyparser": "^4.3.0",
     "log4js": "^6.3.0",
-    "mysql2": "^2.3.3-rc.0",
-    "sequelize": "^6.9.0"
+    "mysql2": "^2.3.3-rc.0"
   },
   "husky": {
     "hooks": {
