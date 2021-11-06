@@ -22,6 +22,6 @@ yarn dev
 // 检查代码风格
 yarn lint
 
-// 代码风格 prettier
+// prettier 代码风格
 yarn format
 ```
